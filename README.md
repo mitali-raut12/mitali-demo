@@ -1,3 +1,3 @@
 # mitali-demo
-my first repository
+This is my first Git Repository.
 Author-Mitali Raut
